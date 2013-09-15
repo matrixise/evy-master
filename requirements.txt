@@ -1,0 +1,12 @@
+Flask
+Flask-Babel
+Flask-Bootstrap
+Flask-Cache
+Flask-RQ
+Flask-Restful
+Flask-SQLAlchemy
+gunicorn
+psycopg2
+redis
+requests
+rq
